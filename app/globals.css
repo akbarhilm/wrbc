@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0E0E0D;
+  color: #F6F4EC;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+::selection {
+  background-color: #F2B400;
+  color: #0E0E0D;
+}
+
+/* Visible keyboard focus, consistent everywhere */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid #F2B400;
+  outline-offset: 3px;
+}
+
+/* Thin repeating hazard-stripe rule, used sparingly as a structural divider */
+.stripe-rule {
+  height: 6px;
+  background-image: repeating-linear-gradient(
+    135deg,
+    #f2b400 0px,
+    #f2b400 10px,
+    #0e0e0d 10px,
+    #0e0e0d 20px
+  );
+}
+
+/* Scanline motif for the hero — evokes a monitoring / camera sweep */
+.scan-grid {
+  background-image:
+    linear-gradient(#2c2c28 1px, transparent 1px),
+    linear-gradient(90deg, #2c2c28 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
