@@ -13,7 +13,7 @@ export default function Footer() {
             <span className="font-display text-lg font-bold">WRBC</span>
           </div>
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-paper/60">
-            CV WRBC — mitra instalasi CCTV, solusi IT, kitchen set, dan
+            WRBC — mitra instalasi CCTV, solusi IT, kitchen set, dan
             material bangunan untuk rumah, ruko, dan properti usaha Anda.
           </p>
         </div>
@@ -97,7 +97,7 @@ export default function Footer() {
       <div className="stripe-rule" />
 
       <div className="mx-auto flex max-w-content flex-col items-center justify-between gap-2 px-6 py-5 text-xs text-paper/50 md:flex-row">
-        <p>© {new Date().getFullYear()} CV WRBC. Seluruh hak cipta dilindungi.</p>
+        <p>© {new Date().getFullYear()} WRBC. Seluruh hak cipta dilindungi.</p>
         <p>Contoh company profile — dibuat dengan Next.js.</p>
       </div>
     </footer>
