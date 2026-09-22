@@ -82,7 +82,7 @@ export default function HomePage() {
         <div className="relative mx-auto max-w-content px-6 py-24 md:py-32">
           <div className="max-w-2xl">
             <p className="font-body text-sm font-medium uppercase tracking-wide text-signal">
-              CV WRBC
+              WRBC
             </p>
             <h1 className="mt-4 font-display text-4xl font-extrabold leading-[1.1] text-balance md:text-6xl">
               Keamanan dan properti Anda, ditangani satu mitra terpercaya.

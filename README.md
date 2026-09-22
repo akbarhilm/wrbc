@@ -1,6 +1,6 @@
 # WRBC — Company Profile (Next.js)
 
-Contoh website company profile untuk **CV WRBC**, dibuat dengan Next.js 14
+Contoh website company profile untuk **WRBC**, dibuat dengan Next.js 14
 (App Router), TypeScript, dan Tailwind CSS. Tema visual kuning–hitam,
 terinspirasi dari identitas industri keamanan (CCTV) dan hazard stripe
 material bangunan.

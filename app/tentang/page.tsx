@@ -35,7 +35,7 @@ export default function AboutPage() {
             Dari satu titik kamera, menjadi mitra properti terpadu
           </h1>
           <p className="mt-6 max-w-2xl font-body text-lg leading-relaxed text-paper/70">
-            CV WRBC berawal dari jasa instalasi CCTV untuk rumah dan usaha
+            WRBC berawal dari jasa instalasi CCTV untuk rumah dan usaha
             kecil di sekitar Bandung. Seiring waktu, klien mulai bertanya
             soal kebutuhan lain — jaringan kantor, dapur baru, hingga
             material renovasi. Dari sana kami membangun tim dan kerja sama
