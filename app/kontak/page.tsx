@@ -1,3 +1,4 @@
+import type { LucideIcon } from "lucide-react";
 import { MapPin, Phone, Mail, Clock } from "lucide-react";
 import ContactForm from "@/components/ContactForm";
 
@@ -79,7 +80,7 @@ function InfoRow({
   label,
   value,
 }: {
-  icon: React.ComponentType<{ size?: number; strokeWidth?: number; className?: string }>;
+  icon: LucideIcon;
   label: string;
   value: string;
 }) {

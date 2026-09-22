@@ -1,4 +1,5 @@
 import Link from "next/link";
+import type { LucideIcon } from "lucide-react";
 import {
   Camera,
   Code2,
@@ -263,7 +264,7 @@ function Reason({
   title,
   desc,
 }: {
-  icon: React.ComponentType<{ size?: number; strokeWidth?: number; className?: string }>;
+  icon: LucideIcon;
   title: string;
   desc: string;
 }) {
