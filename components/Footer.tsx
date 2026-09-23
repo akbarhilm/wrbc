@@ -76,19 +76,19 @@ export default function Footer() {
           <ul className="mt-4 space-y-3 text-sm text-paper/70">
             <li className="flex items-start gap-2">
               <MapPin size={16} className="mt-0.5 shrink-0 text-signal" />
-              <span>Jl. Contoh Raya No. 123, Bandung, Jawa Barat</span>
+              <span>Kp Blok Salim RT 001/003 Desa kertajaya, Kecamatan Padalarang, Kabupaten Bandung Barat</span>
             </li>
             <li className="flex items-center gap-2">
               <Phone size={16} className="shrink-0 text-signal" />
-              <span>+62 812-3456-7890</span>
+              <span>089-7787-9437</span>
             </li>
             <li className="flex items-center gap-2">
               <Mail size={16} className="shrink-0 text-signal" />
-              <span>halo@wrbc.co.id</span>
+              <span>wrbcwarungmbacctv@gmail.com</span>
             </li>
             <li className="flex items-center gap-2">
               <Clock size={16} className="shrink-0 text-signal" />
-              <span>Senin–Sabtu, 08.00–17.00</span>
+              <span>Senin–Minggu, 09.00–19.00</span>
             </li>
           </ul>
         </div>

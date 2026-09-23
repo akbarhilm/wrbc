@@ -41,9 +41,9 @@ const services = [
 ];
 
 const stats = [
-  { value: "120+", label: "Titik CCTV terpasang" },
-  { value: "8", label: "Tahun melayani klien" },
-  { value: "40+", label: "Klien rumah & usaha" },
+  { value: "100+", label: "Titik CCTV terpasang" },
+  { value: "5", label: "Tahun melayani klien" },
+  { value: "50+", label: "Klien rumah & usaha" },
   { value: "4", label: "Lini layanan terpadu" },
 ];
 

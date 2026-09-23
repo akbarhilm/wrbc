@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-const WHATSAPP_NUMBER = "6281234567890"; // TODO: ganti dengan nomor WhatsApp bisnis asli
+const WHATSAPP_NUMBER = "08977879437"; // TODO: ganti dengan nomor WhatsApp bisnis asli
 
 const services = [
   "Instalasi CCTV",
