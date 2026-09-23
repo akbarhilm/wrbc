@@ -21,7 +21,7 @@ const projects = [
   },
   {
     category: "Solusi IT",
-    image: "/portofolio/pos.png",
+    image: "/portofolio/pose.png",
     title: "Aplikasi pencatatan stok toko dan kasir",
     desc: "Aplikasi web untuk mencatat keluar-masuk barang harian dan point of sale.",
   },
