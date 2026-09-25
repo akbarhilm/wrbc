@@ -9,7 +9,7 @@ material bangunan.
 
 - `/` — Beranda: hero, statistik, ringkasan 4 layanan, alasan memilih WRBC, alur kerja
 - `/tentang` — Tentang Kami: cerita perusahaan, visi & misi, nilai kerja
-- `/layanan` — Detail 4 layanan: CCTV, Solusi IT, Kitchen Set, Material Bangunan
+- `/layanan` — Detail 4 layanan: CCTV, Solusi IT, Furniture & Interior, Material Bangunan
 - `/portofolio` — Contoh kategori pekerjaan (placeholder, ganti dengan proyek asli)
 - `/kontak` — Form kontak (kirim ke WhatsApp), info kontak, peta
 

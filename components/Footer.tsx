@@ -13,7 +13,7 @@ export default function Footer() {
             <span className="font-display text-lg font-bold">WRBC</span>
           </div>
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-paper/60">
-            WRBC — mitra instalasi CCTV, solusi IT, kitchen set, dan
+            WRBC — mitra instalasi CCTV, solusi IT, furniture & interior, dan
             material bangunan untuk rumah, ruko, dan properti usaha Anda.
           </p>
         </div>
@@ -34,8 +34,8 @@ export default function Footer() {
               </Link>
             </li>
             <li>
-              <Link href="/layanan#kitchen-set" className="hover:text-signal">
-                Kitchen Set
+              <Link href="/layanan#furniture" className="hover:text-signal">
+                Furniture & Interior
               </Link>
             </li>
             <li>

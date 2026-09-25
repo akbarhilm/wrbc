@@ -26,7 +26,7 @@ const projects = [
     desc: "Aplikasi web untuk mencatat keluar-masuk barang harian dan point of sale.",
   },
   {
-    category: "Kitchen Set",
+    category: "Furniture & Interior",
     image: "/portofolio/kitchenset.jpeg",
     title: "Kitchen set dapur bentuk L",
     desc: "Kabinet atas-bawah custom untuk dapur rumah tinggal.",

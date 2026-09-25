@@ -21,7 +21,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "WRBC — Instalasi CCTV, Solusi IT & Material Bangunan",
   description:
-    "WRBC menyediakan jasa instalasi CCTV, solusi IT (aplikasi web, komputer & periferal), kitchen set custom, dan material bahan bangunan untuk kebutuhan properti dan usaha Anda.",
+    "WRBC menyediakan jasa instalasi CCTV, solusi IT (aplikasi web, komputer & periferal), furniture & interior custom, dan material bahan bangunan untuk kebutuhan properti dan usaha Anda.",
 };
 
 export default function RootLayout({

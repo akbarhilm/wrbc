@@ -27,10 +27,10 @@ const services = [
     desc: "Pembuatan website dan aplikasi, penjualan komputer serta periferal, sampai perawatan jaringan kantor.",
   },
   {
-    id: "kitchen-set",
+    id: "furniture",
     icon: ChefHat,
-    title: "Kitchen Set",
-    desc: "Kitchen set custom sesuai ukuran dapur, dikerjakan bersama mitra pengrajin tepercaya kami.",
+    title: "Furniture & Interior",
+    desc: "Furniture & Interior custom sesuai permintaan, dikerjakan bersama mitra pengrajin tepercaya kami.",
   },
   {
     id: "material",
@@ -89,7 +89,7 @@ export default function HomePage() {
             </h1>
             <p className="mt-6 max-w-lg font-body text-base leading-relaxed text-paper/70 md:text-lg">
               WRBC memulai dari jasa instalasi CCTV, lalu berkembang menjadi
-              mitra solusi IT, kitchen set, dan material bangunan — supaya
+              mitra solusi IT, furniture & interior, dan material bangunan — supaya
               proyek properti Anda cukup dikerjakan satu pintu.
             </p>
             <div className="mt-9 flex flex-wrap gap-4">
@@ -135,7 +135,7 @@ export default function HomePage() {
           </h2>
           <p className="mt-4 font-body text-paper/70">
             Instalasi CCTV adalah fondasi kami. Dari sana, WRBC merangkap
-            kebutuhan IT, dapur, dan material bangunan yang biasanya
+            kebutuhan IT, furniture interior, dan material bangunan yang biasanya
             dikerjakan vendor berbeda-beda.
           </p>
         </div>
@@ -180,7 +180,7 @@ export default function HomePage() {
             </h2>
             <p className="mt-4 max-w-md font-body text-paper/70">
               Sebagian besar klien kami mulai dari proyek CCTV, lalu kembali
-              lagi untuk kebutuhan IT, dapur, atau renovasi berikutnya.
+              lagi untuk kebutuhan IT, interior furniture, atau renovasi berikutnya.
             </p>
           </div>
           <div className="grid gap-8 sm:grid-cols-2">
@@ -202,7 +202,7 @@ export default function HomePage() {
             <Reason
               icon={ClipboardCheck}
               title="Satu penawaran, semua kebutuhan"
-              desc="CCTV, IT, kitchen set, dan material bisa digabung dalam satu rencana dan satu penawaran harga."
+              desc="CCTV, IT, furniture & interior, dan material bisa digabung dalam satu rencana dan satu penawaran harga."
             />
           </div>
         </div>

@@ -37,7 +37,7 @@ export default function AboutPage() {
           <p className="mt-6 max-w-2xl font-body text-lg leading-relaxed text-paper/70">
             WRBC berawal dari jasa instalasi CCTV untuk rumah dan usaha
             kecil di sekitar Bandung. Seiring waktu, klien mulai bertanya
-            soal kebutuhan lain — jaringan kantor, dapur baru, hingga
+            soal kebutuhan lain — jaringan kantor, dapur baru,furniture & interior hingga
             material renovasi. Dari sana kami membangun tim dan kerja sama
             yang memungkinkan keempatnya ditangani dalam satu koordinasi.
           </p>
@@ -69,7 +69,7 @@ export default function AboutPage() {
                 mudah dirawat.
               </li>
               <li>
-                Memperluas layanan IT, kitchen set, dan material bangunan
+                Memperluas layanan IT, furniture & interior, dan material bangunan
                 dengan standar kerja yang sama.
               </li>
               <li>
@@ -112,14 +112,14 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* Partnership note re: kitchen set */}
+      {/* Partnership note re: furniture & interior */}
       <section className="mx-auto max-w-content px-6 py-20">
         <div className="border border-signal/40 p-8 md:p-10">
           <h2 className="font-display text-xl font-bold">
-            Tentang layanan kitchen set
+            Tentang layanan furniture & interior
           </h2>
           <p className="mt-3 max-w-2xl font-body leading-relaxed text-paper/70">
-            Kitchen set dikerjakan melalui kerja sama dengan pengrajin mitra
+            Furniture & Interior dikerjakan melalui kerja sama dengan pengrajin mitra
             yang sudah kami kurasi. WRBC menangani konsultasi ukuran,
             koordinasi jadwal, dan pengawasan pemasangan, sehingga klien
             tetap berurusan dengan satu kontak.

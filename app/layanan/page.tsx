@@ -34,7 +34,7 @@ export default function LayananPage() {
           <p className="mt-6 max-w-2xl font-body text-lg leading-relaxed text-paper/70">
             Instalasi CCTV tetap menjadi inti pekerjaan kami. Tiga layanan
             lainnya dikembangkan untuk menjawab kebutuhan yang biasanya
-            muncul bersamaan: jaringan dan perangkat kerja, dapur baru, dan
+            muncul bersamaan: jaringan dan perangkat kerja, dapur baru, interior, furniture, dan
             material renovasi.
           </p>
         </div>
@@ -143,8 +143,8 @@ export default function LayananPage() {
         </div>
       </section>
 
-      {/* Kitchen set */}
-      <section id="kitchen-set" className="scroll-mt-20 border-b border-ink-line">
+      {/* Furniture & Interior */}
+      <section id="furniture" className="scroll-mt-20 border-b border-ink-line">
         <div className="mx-auto max-w-content px-6 py-20">
           <div className="grid gap-12 md:grid-cols-[auto,1fr]">
             <div className="flex items-start">
@@ -157,10 +157,10 @@ export default function LayananPage() {
                 Bekerja sama dengan mitra pengrajin
               </span>
               <h2 className="mt-3 font-display text-3xl font-bold">
-                Kitchen Set
+                Furniture & Interior
               </h2>
               <p className="mt-4 max-w-2xl font-body leading-relaxed text-paper/70">
-                Kitchen set custom sesuai ukuran dan gaya dapur, dikerjakan
+                Furniture & Interior custom sesuai permintaan, dikerjakan
                 bersama pengrajin mitra yang telah kami kurasi. WRBC
                 menangani konsultasi dan koordinasi pemasangan.
               </p>
@@ -169,7 +169,7 @@ export default function LayananPage() {
                 <FeatureItem
                   icon={Ruler}
                   title="Ukur & desain sesuai ruang"
-                  desc="Pengukuran langsung di lokasi untuk memastikan tata letak dapur sesuai kebutuhan."
+                  desc="Pengukuran langsung di lokasi untuk memastikan tata letak sesuai kebutuhan."
                 />
                 <FeatureItem
                   icon={PaintBucket}
